@@ -394,7 +394,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "uri": "[variables('adTemplateURL')]",
+          "uri": "https://raw.githubusercontent.com/martgras/AzureStack-QuickStart-Templates/master/ad-non-ha/adVmTemplate.json",
           "contentVersion": "1.0.0.0"
         },
         "parameters": {
