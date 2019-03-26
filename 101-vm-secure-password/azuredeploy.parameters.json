@@ -8,9 +8,9 @@
     "adminPassword": {
       "reference": {
         "keyVault": {
-          "id": "/subscriptions/XXXXXXX/resourceGroups/resourceGroupName/providers/Microsoft.KeyVault/vaults/vaultName"
+          "id": "/subscriptions/9568bca5-e00d-485d-b654-7078bdeea839/resourceGroups/mgKeyVaultGroup/providers/Microsoft.KeyVault/vaults/mgTestvault"
         },
-        "secretName": "secretName"
+        "secretName": "ITSecret"
       }
     },
     "dnsLabelPrefix": {
